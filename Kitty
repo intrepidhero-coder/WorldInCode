@@ -1,0 +1,7 @@
+import random
+
+YN = ["yes", "no"]
+NESW = ["north", "east"," south", "west"]
+UD ["up", "down"]
+
+def get_input
